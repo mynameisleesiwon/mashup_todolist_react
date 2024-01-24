@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 리액트로 만든 멋진 투두리스트
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
