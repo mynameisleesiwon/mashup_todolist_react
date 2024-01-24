@@ -1,6 +1,8 @@
 # 리액트로 만든 멋진 투두리스트
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. styled-components 를 통한 컴포넌트 스타일링
+2. Context API 를 사용한 전역 상태 관리
+3. 배열 상태 다루기
 
 ## Available Scripts
 
